@@ -15,7 +15,7 @@ sudo apt install ros-$ROS_DISTRO-teleop-twist-keyboard
 
 ```
 
-## 🎮 Hướng dẫn Khởi chạy & Sử dụng
+## Hướng dẫn Khởi chạy & Sử dụng
 
 Để chạy toàn bộ hệ thống mô phỏng, bạn sẽ cần mở nhiều tab terminal khác nhau. **Hãy đảm bảo bạn đang đứng ở thư mục gốc của ROS 2 workspace (ví dụ: `~/ros2_ws`) trước khi chạy các lệnh dưới đây.**
 
@@ -70,6 +70,6 @@ ros2 run rqt_image_view rqt_image_view
 
 ```
 
-Bạn thử copy lại xem đã đầy đủ từ đầu đến cuối chưa nhé!
+
 
 ```
