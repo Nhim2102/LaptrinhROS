@@ -1,26 +1,6 @@
-Xin lỗi bạn nếu phần hiển thị vừa rồi bị lỗi hoặc thiếu sót khiến bạn khó copy.
 
-Dưới đây là **toàn bộ nội dung** được đóng gói gọn gàng trong một khung code. Bạn chỉ cần nhấn nút **"Copy" (Sao chép)** ở góc trên cùng bên phải của khung này, sau đó dán thẳng vào file `README.md` trên GitHub là mọi thứ (kể cả màu sắc của code) sẽ hiển thị hoàn hảo nhé:
 
-```markdown
-# 🤖 Mô Phỏng Robot Di Động ROS 2 (`myrobot`)
-
-Một package mô phỏng ROS 2 dành cho hệ thống robot di động tùy chỉnh. Dự án này thể hiện cách thiết lập mô hình vật lý cơ bản cho robot (sử dụng định dạng URDF/Xacro), cách tích hợp các loại cảm biến và chạy mô phỏng môi trường thông qua Gazebo và RViz.
-
-## 🚀 Tính năng nổi bật
-* **Truyền động Vi sai (Differential/Skid-Steer Drive):** Cấu hình động học di chuyển tùy chỉnh.
-* **Tích hợp Cảm biến:** 
-  * 📷 **Camera:** Phục vụ các tác vụ xử lý hình ảnh và thị giác máy tính.
-  * 📡 **LiDAR (2D):** Ứng dụng cho việc tránh vật cản, vẽ bản đồ và chạy thuật toán SLAM.
-  * 🧭 **IMU:** Đo gia tốc tuyến tính và vận tốc góc của hệ thống.
-* **Môi trường Mô phỏng:** Hỗ trợ đầy đủ hiển thị trực quan dữ liệu trên Gazebo và RViz.
-
-## 🛠️ Yêu cầu hệ thống
-* Hệ điều hành: Ubuntu 22.04
-* Nền tảng: ROS 2 Humble
-* Công cụ mô phỏng: Gazebo
-
-## 📦 Cài đặt
+Cài đặt
 
 Trước khi khởi chạy hệ thống mô phỏng, bạn cần cài đặt package `teleop` để có thể điều khiển robot di chuyển bằng bàn phím.
 
